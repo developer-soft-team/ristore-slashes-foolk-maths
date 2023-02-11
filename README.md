@@ -7,3 +7,5 @@ En las fases iniciales del tutorial en ingles cargaban el standard out put
 para interacturar con random y formularios para encajar una solución.
 Ristori slases es donde nuestro replit rompe el rust y escribe config me.
 Come on support ME!!!
+En su implementación correcta un mesero adinerado abre por la mañana y todavía
+se plant
